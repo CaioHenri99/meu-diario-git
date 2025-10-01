@@ -1,1 +1,2 @@
 Meu diário de aprendizado de Git e Github.
+Aprendendo a atualizar com Commit e Push.
